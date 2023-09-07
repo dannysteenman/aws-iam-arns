@@ -20,6 +20,12 @@ The update works by reading JavaScript assets used by the AWS Policy Generator
 unsupported method though, so the update scripts might need updating from time
 to time.
 
+# View the complete ARN table
+
+On my blog I've published the complete table that got generated using this script:
+
+https://towardsthecloud.com/amazon-resource-names-arns
+
 # License
 
 Licensed under the Apache License, Version 2.0.  See the LICENSE file.
